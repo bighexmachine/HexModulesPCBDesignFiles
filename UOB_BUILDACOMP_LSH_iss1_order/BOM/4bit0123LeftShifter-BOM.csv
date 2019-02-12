@@ -1,0 +1,26 @@
+ref	value	Manufacturer Code	Digikey Order Code	Farnell Order Code	URL
+C1	330nF	0805330nF 25V 10% X7R			Any compatible
+C2	100nF	0805100nF 50V 10% X7R			Any compatible
+D1	LED_R_D0	C566C-RFN-CT0W0BB2		2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D2	LED_R_D1	C566C-RFN-CT0W0BB2		2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D3	LED_R_D2	C566C-RFN-CT0W0BB2		2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D4	LED_R_D3	C566C-RFN-CT0W0BB2		2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D5	LED_B_SHIFT1	C566C-BFN-CS0W0451		2094359	http://uk.farnell.com/cree/c566c-bfn-cs0w0352/led-blue-1-5cd-470nm/dp/2094359?ref=lookahead
+D6	LED_B_SHIFT0	C566C-BFN-CS0W0451		2094359	http://uk.farnell.com/cree/c566c-bfn-cs0w0352/led-blue-1-5cd-470nm/dp/2094359?ref=lookahead
+J1	RJ45_DIn0	10117863-5036010LF		2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+J2	RJ45_CIn0	10117863-5036010LF		2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+J3	RJ45_COut0	10117863-5036010LF		2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+J4	RJ45_ChIn0	10117863-5036010LF		2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+J5	RJ45_ChOut0	10117863-5036010LF		2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+J6	RJ45_DOut0	10117863-5036010LF		2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+U1	74AC157	CD74AC157M		1103068	http://uk.farnell.com/texas-instruments/cd74ac157m/ic-74ac-cmos-smd-74ac157-soic16/dp/1103068
+U2	74AC157	CD74AC157M		1103068	http://uk.farnell.com/texas-instruments/cd74ac157m/ic-74ac-cmos-smd-74ac157-soic16/dp/1103068
+U3	74AC125	MC74AC125DR2G	MC74AC125DR2GOSCT-ND		http://www.digikey.co.uk/product-detail/en/MC74AC125DR2G/MC74AC125DR2GOSCT-ND/3462317
+U4	YC124_100K	YC124-JR-07100KL		9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL
+U5	YC124_100K	YC124-JR-07100KL		9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL
+U8	YC124_100K	YC124-JR-07100KL		9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL
+U6	YC124_1K	YC124-JR-071KL		9235361RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-071kl/resistor-array-arv341-0804-1k/dp/9235361RL
+U7	YC124_2K2	YC124-JR-072K2L		9235388RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-072k2l/resistor-array-arv341-0804-2k2/dp/9235388RL
+U9	YC124_470R	YC124-JR-07470RL		9235345RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07470rl/resistor-array-arv341-0804-470r/dp/9235345RL
+U10	YC124_470R	YC124-JR-07470RL		9235345RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07470rl/resistor-array-arv341-0804-470r/dp/9235345RL
+U11	78L05	UA78L05CPK		2112604	http://uk.farnell.com/texas-instruments/ua78l05cpk/regulator-20vin-5v-10-3sot89/dp/2112604

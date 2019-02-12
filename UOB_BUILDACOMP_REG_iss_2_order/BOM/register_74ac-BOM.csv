@@ -1,0 +1,20 @@
+ref	value	Manufacturer Code	Order Code	URL
+C1	330nF	0805330nF 25V 10% X7R		Any compatible
+C2	100nF	0805100nF 50V 10% X7R		Any compatible
+R2	470R	0603470R 1%		Any compatible
+D1	LED	C566C-RFN-CT0W0BB2	2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D2	LED	C566C-RFN-CT0W0BB2	2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D3	LED	C566C-RFN-CT0W0BB2	2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D4	LED	C566C-RFN-CT0W0BB2	2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+J1	RJ45	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+J2	RJ45	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+J3	RJ45	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+J4	RJ45	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+U1	74AC08	74AC08SC	2120088	http://uk.farnell.com/fairchild-semiconductor/74ac08sc/ic-quad-gate-2i-p-soic-14/dp/2120088
+U2	CD4508B	CD4508BM96	(DigiKey) 296-29901-6-ND	http://www.digikey.co.uk/product-detail/en/CD4508BM96/296-29901-6-ND/2782669
+U3	74AC244	74AC244SC	1014154	http://uk.farnell.com/fairchild-semiconductor/74ac244sc/ic-74ac-cmos-smd-74ac244-soic20/dp/1014154
+U9	78L05	UA78L05CPK	2112604	http://uk.farnell.com/texas-instruments/ua78l05cpk/regulator-20vin-5v-10-3sot89/dp/2112604
+U7	YC124_470R	YC124-JR-07470RL	9235345RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07470rl/resistor-array-arv341-0804-470r/dp/9235345RL
+U8	YC124_1K	YC124-JR-071KL	9235361RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-071kl/resistor-array-arv341-0804-1k/dp/9235361RL
+U5	YC124_100K	YC124-JR-07100KL	9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL
+U6	YC124_100K	YC124-JR-07100KL	9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL

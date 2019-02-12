@@ -1,0 +1,9 @@
+###,Module,positions,-,created,on,Mon,14,Oct,2013,12:42:41,BST,###
+###,Printed,by,Pcbnew,version,pcbnew,(2013-mar-13)-testing,,,,,,
+##,Unit,=,mm,Angle,=,deg.,,,,,,
+##,Side,:,F.Cu,,,,,,,,,
+#,Ref,Val,Package,PosX,PosY,Rot,Side,,,,,
+U4,74AC04,so-14,48.4,-21.8,270,B.Cu,,,,,,
+U11,74AC00,so-14,36.4,-16.4,180,B.Cu,,,,,,
+U14,YC124,YC124-JR,56.35,-44.65,0,B.Cu,,,,,,
+##,End,,,,,,,,,,,

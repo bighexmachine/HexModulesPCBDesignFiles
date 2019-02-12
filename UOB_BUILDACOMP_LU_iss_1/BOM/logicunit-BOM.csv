@@ -1,0 +1,30 @@
+ref	value	Manufacturer Order Code	Digi-Key Order Code	RS Stock No.	Farnell Order Code	URL
+C1	330nF	0805330nF 25V 10% X7R				Any compatible
+C2	100nF	0805100nF 50V 10% X7R				Any compatible
+D1	LED	C566C-RFN-CT0W0BB2			2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D2	LED	C566C-RFN-CT0W0BB2			2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D3	LED	C566C-RFN-CT0W0BB2			2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D4	LED	C566C-RFN-CT0W0BB2			2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D5	NOT	C566C-BFN-CS0W0451			2094359	http://uk.farnell.com/cree/c566c-bfn-cs0w0352/led-blue-1-5cd-470nm/dp/2094359?ref=lookahead
+D6	AND	C566C-BFN-CS0W0451			2094359	http://uk.farnell.com/cree/c566c-bfn-cs0w0352/led-blue-1-5cd-470nm/dp/2094359?ref=lookahead
+D7	OR	C566C-BFN-CS0W0451			2094359	http://uk.farnell.com/cree/c566c-bfn-cs0w0352/led-blue-1-5cd-470nm/dp/2094359?ref=lookahead
+D8	XOR	C566C-BFN-CS0W0451			2094359	http://uk.farnell.com/cree/c566c-bfn-cs0w0352/led-blue-1-5cd-470nm/dp/2094359?ref=lookahead
+J1	INPUT 0	10117863-5036010LF			2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338?ref=lookahead
+J2	INPUT 1	10117863-5036010LF			2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338?ref=lookahead
+J3	CTRL IN	10117863-5036010LF			2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338?ref=lookahead
+J4	CTRL OUT	10117863-5036010LF			2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338?ref=lookahead
+J5	RESULT	10117863-5036010LF			2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338?ref=lookahead
+U1	74AC08	74AC08SC			2120088	http://uk.farnell.com/fairchild-semiconductor/74ac08sc/ic-quad-gate-2i-p-soic-14/dp/2120088
+U2	74AC32	74AC32SC			1014142	http://uk.farnell.com/fairchild-semiconductor/74ac32sc/ic-74ac-cmos-smd-74ac32-soic14/dp/1014142
+U3	74AC04	74AC04SC			1014140	http://uk.farnell.com/fairchild-semiconductor/74ac04sc/ic-74ac-cmos-smd-74ac04-soic14/dp/1014140
+U4	74AC86	74AC86SC			1014151	http://uk.farnell.com/fairchild-semiconductor/74ac86sc/ic-74ac-cmos-smd-74ac86-soic14/dp/1014151
+U5	74AC153	CD74AC153M96G4		662-6901		http://uk.rs-online.com/web/p/multiplexer-switch-ics/6626901/?searchTerm=74ac153&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C772D5C2E2F252C5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D424552267573743D373461633135332677633D424F544826
+U6	74AC153	CD74AC153M96G4		662-6901		http://uk.rs-online.com/web/p/multiplexer-switch-ics/6626901/?searchTerm=74ac153&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C772D5C2E2F252C5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D424552267573743D373461633135332677633D424F544826
+U11	74AC139	74AC139SC	74AC139SC-ND			http://www.digikey.co.uk/product-detail/en/74AC139SC/74AC139SC-ND/211782
+U8	YC124_100k	YC124-JR-07100KL			9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL
+U7	YC124_100k	YC124-JR-07100KL			9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL
+U14	YC124_100K	YC124-JR-07100KL			9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL
+U9	YC124_1K	YC124-JR-071KL			9235361RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-071kl/resistor-array-arv341-0804-1k/dp/9235361RL
+U12	YC124_2K2	YC124-JR-072K2L			9235388RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-072k2l/resistor-array-arv341-0804-2k2/dp/9235388RL
+U10	YC124_470R	YC124-JR-07470RL			9235345RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07470rl/resistor-array-arv341-0804-470r/dp/9235345RL
+U13	78L05	UA78L05CPK			2112604	http://uk.farnell.com/texas-instruments/ua78l05cpk/regulator-20vin-5v-10-3sot89/dp/2112604

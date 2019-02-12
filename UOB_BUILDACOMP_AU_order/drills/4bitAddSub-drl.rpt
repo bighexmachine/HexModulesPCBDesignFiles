@@ -1,0 +1,19 @@
+Drill report for C:/Documents and Settings/aw12700/My Documents/GitHub/buildacomp/kicad/4 Bit Adder/4bitAddSub.kicad_pcb
+Created on 9/18/2013 12:24:21
+Drill report for plated through holes :
+T1  0.50mm  0.020"  (61 holes)
+T2  0.64mm  0.025"  (22 holes)
+T3  0.81mm  0.032"  (20 holes)
+T4  0.90mm  0.035"  (48 holes)
+T5  1.60mm  0.063"  (12 holes)
+
+Total plated holes count 163
+
+
+Drill report for unplated through holes :
+T1  3.00mm  0.118"  (4 holes)
+T2  3.25mm  0.128"  (12 holes)
+
+Total unplated holes count 16
+
+

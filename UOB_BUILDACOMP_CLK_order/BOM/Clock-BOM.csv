@@ -1,0 +1,31 @@
+ref,value,Manufacturer Code,Mouser Order Code,Farnell Order Code,URL,Supply Source
+C1,10uF,080510uF 10V Z% Y5V,,,http://www.pcbtrain.co.uk/schematic/free-issue-capacitors/,PCB Train Supplied
+C2,1uF,08051uF 16V 10% X7R,,,http://www.pcbtrain.co.uk/schematic/free-issue-capacitors/,PCB Train Supplied
+C3,47pF,080547pF 50V 5% C0G,,,http://www.pcbtrain.co.uk/schematic/free-issue-capacitors/,PCB Train Supplied
+C4,330nF,0805330nF 25V 10% X7R,,,http://www.pcbtrain.co.uk/schematic/free-issue-capacitors/,PCB Train Supplied
+C5,100nF,0805100nF 50V 10% X7R,,,http://www.pcbtrain.co.uk/schematic/free-issue-capacitors/,PCB Train Supplied
+CON1,BARREL_JACK,FC68148S,,1889309,http://uk.farnell.com/cliff-electronic-components/fc68148s/dc-socket-smd-dc-10as-2-1mm-pin/dp/1889309,PCB Train Supplied
+D2,LED,C566C-GFS-CV0Z0792,,1855549,http://uk.farnell.com/cree/c566c-gfs-cv0z0792/led-5mm-oval/dp/1855549,PCB Train Supplied
+D4,LED,C566C-GFS-CV0Z0792,,1855549,http://uk.farnell.com/cree/c566c-gfs-cv0z0792/led-5mm-oval/dp/1855549,PCB Train Supplied
+J1,RJ45,10117863-5036010LF,,2215338,http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338?ref=lookahead,PCB Train Supplied
+J2,RJ45,10117863-5036010LF,,2215338,http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338?ref=lookahead,PCB Train Supplied
+SW1,MANUAL,MC8MS8P1B06VS2QES,,2008736,http://uk.farnell.com/multicomp/mc8ms8p1b06vs2qes/switch-spdt-on-mom-v-bracket/dp/2008736?ref=lookahead,PCB Train Supplied
+SW2,RESET,MC8MS8P1B06VS2QES,,2008736,http://uk.farnell.com/multicomp/mc8ms8p1b06vs2qes/switch-spdt-on-mom-v-bracket/dp/2008736?ref=lookahead,PCB Train Supplied
+SW3,TOGGLE,OS102011MS2QN1,,1201430,http://uk.farnell.com/c-k-components/os102011ms2qn1/switch-spdt-0-1a-12v-pcb/dp/1201430,PCB Train Supplied
+SW4,Divider toggle,OS102011MS2QN1,,1201430,http://uk.farnell.com/c-k-components/os102011ms2qn1/switch-spdt-0-1a-12v-pcb/dp/1201430,PCB Train Supplied
+U1,ICM7555,ICM7555IBAZ,,9663754,http://uk.farnell.com/intersil/icm7555ibaz/ic-timer-cmos-smd-7555-soic8/dp/9663754,PCB Train Supplied
+U8,74AC00,SN74AC00DR,,1749898,http://uk.farnell.com/texas-instruments/sn74ac00dr/logic-quad-2in-pos-nand-gate-14soic/dp/1749898,PCB Train Supplied
+U11,74AC00,SN74AC00DR,,1749898,http://uk.farnell.com/texas-instruments/sn74ac00dr/logic-quad-2in-pos-nand-gate-14soic/dp/1749898,PCB Train Supplied
+U4,74AC04,74AC04SC,,1014140,http://uk.farnell.com/fairchild-semiconductor/74ac04sc/ic-74ac-cmos-smd-74ac04-soic14/dp/1014140,PCB Train Supplied
+U5,74AC175,CD74AC175M,,1752822,http://uk.farnell.com/texas-instruments/cd74ac175m/logic-quad-d-type-ff-w-clear-16soic/dp/1752822,PCB Train Supplied
+U7,74AC175,CD74AC175M,,1752822,http://uk.farnell.com/texas-instruments/cd74ac175m/logic-quad-d-type-ff-w-clear-16soic/dp/1752822,PCB Train Supplied
+U9,4040,CD4040BM,,1741253,http://uk.farnell.com/texas-instruments/cd4040bm/logic-12bit-bin-rippl-countr-16soic/dp/1741253,PCB Train Supplied
+U10,CD4043,CD4043BD,,1741580,http://uk.farnell.com/texas-instruments/cd4043bd/logic-nor-r-s-latch-3st-quad-16soic/dp/1741580,PCB Train Supplied
+U13,78L05,UA78L05CPK,,2112604,http://uk.farnell.com/texas-instruments/ua78l05cpk/regulator-20vin-5v-10-3sot89/dp/2112604,PCB Train Supplied
+U2,YC124_330R,YC124-JR-07330RL,,9235337RL,http://uk.farnell.com/yageo-phycomp/yc124-jr-07330rl/resistor-array-arv341-0804-330r/dp/9235337RL,PCB Train Supplied
+U3,YC124_100K,YC124-JR-07100KL,,9235469RL,http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL,PCB Train Supplied
+U6,YC124_100K,YC124-JR-07100KL,,9235469RL,http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL,PCB Train Supplied
+U12,YC124_3K3,YC124-JR-073K3L,,9235396RL,http://uk.farnell.com/yageo-phycomp/yc124-jr-073k3l/resistor-array-arv341-0804-3k3/dp/9235396RL,PCB Train Supplied
+U14,YC124_470R,YC124-JR-07470RL,,9235345RL,http://uk.farnell.com/yageo-phycomp/yc124-jr-07470rl/resistor-array-arv341-0804-470r/dp/9235345RL,PCB Train Supplied
+VR1,1M,PTV111-1415AA1105,652-PTV1111415AA1105,,http://uk.mouser.com/ProductDetail/Bourns/PTV111-1415A-A1105/?qs=sGAEpiMZZMtC25l1F4XBU4LIzrlRxKBZRO%2fPNRqfSTw%3d,PCB Train Supplied
+D1,Diode,DFLS240L-7,,1713897,http://uk.farnell.com/diodes-inc/dfls240l-7/rectifier-std-recovery-powerdi/dp/1713897,PCB Train Supplied

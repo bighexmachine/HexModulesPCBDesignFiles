@@ -1,0 +1,17 @@
+### UOB BUILDACOMP REG iss 2,,,,,,
+### Module positions - created on 20/08/2013 18:33:46 ###,,,,,,
+### Printed by Pcbnew version pcbnew (2013-05-31 BZR 4019)-stable,,,,,,
+## Unit = mm, Angle = deg.,,,,,
+## Side : F.Cu,,,,,,
+Ref,Val,Package,PosX,PosY,Rot,Side
+C1,0.33uf,SM0805,55.6,-34,0,F.Cu
+C2,0.1uf,SM0805,59.7,-34,180,F.Cu
+U1,74AC08SC,so-14,89,-49.6,0,F.Cu
+U2,CD4508B,SOIC24-WIDE,54,-59.6,180,F.Cu
+U3,74AC244SC,SOIC20DW,55.1,-45.8,0,F.Cu
+U5,YC124 100K,YC124-JR,72.6,-52,180,F.Cu
+U6,YC124 100K,YC124-JR,92.7,-61.2,90,F.Cu
+U7,YC124 470,YC124-JR,72.9,-43.1,0,F.Cu
+U8,YC124_1K,YC124-JR,118.7,-32.5,270,F.Cu
+U9,78L05,SOT89-34,58.8,-29.2,180,F.Cu
+## End,,,,,,

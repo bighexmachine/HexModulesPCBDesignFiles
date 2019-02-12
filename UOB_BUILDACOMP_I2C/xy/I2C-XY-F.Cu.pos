@@ -1,0 +1,32 @@
+### Module positions - created on Tue 15 Oct 2013 18:35:34 BST ###
+### Printed by Pcbnew version pcbnew (2013-mar-13)-testing
+## Unit = mm, Angle = deg.
+## Side : F.Cu
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C1       330nF            SM0805             37.0750   -50.0500     270.0    F.Cu
+C2       0.1uF            SM0805             46.0750   -50.0500     270.0    F.Cu
+D1       LED              LED-1206-SJH       87.0000   -71.0000       0.0    F.Cu
+D2       LED              LED-1206-SJH       83.0000   -30.0000     180.0    F.Cu
+G***     UoB_Logo         UoB_Logo-sm-15    124.5500   -54.5750      90.0    F.Cu
+J1       C0               RJ45_AMP_5555764   70.0000   -65.0000       0.0    F.Cu
+J2       D0               RJ45_AMP_5555764  117.0000   -65.0000       0.0    F.Cu
+J3       A3               RJ45_AMP_5555764  117.0000   -35.0000     180.0    F.Cu
+J4       A2               RJ45_AMP_5555764  100.0000   -35.0000     180.0    F.Cu
+J5       A1               RJ45_AMP_5555764   70.0000   -35.0000     180.0    F.Cu
+J6       A0               RJ45_AMP_5555764   53.0000   -35.0000     180.0    F.Cu
+J7       D1               RJ45_AMP_5555764  100.0000   -65.0000       0.0    F.Cu
+P1       I2C              TSM-104-XX-SV      40.6250   -54.4500     270.0    F.Cu
+P4       I2C              TSM-104-XX-SV     130.9400   -55.9800     270.0    F.Cu
+R1       200k             SM0805             79.1250   -70.0500      90.0    F.Cu
+R3       1k3              SM0805             82.0000   -71.0000       0.0    F.Cu
+R4       1k3              SM0805             88.0000   -30.0000     180.0    F.Cu
+U1       10k              YC248              59.3500   -57.5000     270.0    F.Cu
+U2       PCA9555          TSSOP-24           84.8000   -59.8500      90.0    F.Cu
+U3       PCA9555          TSSOP-24           84.5250   -41.6000     270.0    F.Cu
+U4       78L05            78L05              41.0500   -50.0000     180.0    F.Cu
+U5       10k              YC248             131.0500   -44.9500      90.0    F.Cu
+U6       10k              YC248              38.3250   -41.5750     270.0    F.Cu
+U7       10k              YC248             131.1000   -52.2250      90.0    F.Cu
+U8       PCA9306          TSSOP-8            58.6250   -69.4750       0.0    F.Cu
+U9       10k              YC124-JR           60.2250   -72.4500     180.0    F.Cu
+## End

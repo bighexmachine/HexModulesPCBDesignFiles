@@ -1,0 +1,13 @@
+### UOB BUILDACOMP Input iss 2
+### Module positions - created on 18/09/2013 12:38:39 ###
+### Printed by Pcbnew version pcbnew (2013-07-07 BZR 4022)-stable
+## Unit = mm, Angle = deg.
+## Side : F.Cu
+Ref,Val,Package,PosX,PosY,Rot,Side
+C1,0.33uf,SM0805,17.0000,-51.0000,270.0,F.Cu
+C2,0.1uf,SM0805,23.0000,-54.0000,180.0,F.Cu
+D5,DIODE,DFLS240L,16.8000,-26.1000,270.0,F.Cu
+U1,74AC02,so-14,103.5000,-34.5000,270.0,F.Cu
+U2,74AC02,so-14,31.0000,-20.0000,90.0,F.Cu
+U7,78L05,SOT89-34,23.4000,-48.6000,180.0,F.Cu
+## End

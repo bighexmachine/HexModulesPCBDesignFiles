@@ -1,0 +1,20 @@
+ref	value	Manufacturer Order Code	Farnell Order Code	URL
+C1	330nF	0805330nF 25V 10% X7R		Any compatible
+C2	100nF	0805100nF 50V 10% X7R		Any compatible
+D1	LED	C566C-RFN-CT0W0BB2	2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+J1	RJ45	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338?ref=lookahead
+J2	RJ45	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338?ref=lookahead
+J3	RJ45	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338?ref=lookahead
+J4	RJ45	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338?ref=lookahead
+J5	RJ45	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338?ref=lookahead
+J6	RJ45	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338?ref=lookahead
+J7	RJ45	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338?ref=lookahead
+J8	RJ45	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338?ref=lookahead
+J9	RJ45	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338?ref=lookahead
+J10	RJ45	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338?ref=lookahead
+R1	100K	0603-100K		http://www.pcbtrain.co.uk/schematic/free-issue-resistors/
+R5	470R	0603-470R		http://www.pcbtrain.co.uk/schematic/free-issue-resistors/
+R8	1K	0603-1K		http://www.pcbtrain.co.uk/schematic/free-issue-resistors/
+U2	YC124_100K	YC124-JR-07100KL	9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL
+U1	74AC32	74AC32SC	1014142	http://uk.farnell.com/fairchild-semiconductor/74ac32sc/ic-74ac-cmos-smd-74ac32-soic14/dp/1014142
+U3	78L05	UA78L05CPK	2112604	http://uk.farnell.com/texas-instruments/ua78l05cpk/regulator-20vin-5v-10-3sot89/dp/2112604

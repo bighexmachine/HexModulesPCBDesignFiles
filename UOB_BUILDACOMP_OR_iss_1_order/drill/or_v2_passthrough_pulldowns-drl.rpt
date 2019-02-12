@@ -1,0 +1,19 @@
+Drill report for C:/Documents and Settings/aw12700/My Documents/GitHub/buildacomp/kicad/4 Bit 4 way OR/or_v2_passthrough_pulldowns.kicad_pcb
+Created on 9/18/2013 14:10:53
+Drill report for plated through holes :
+T1  0.50mm  0.020"  (9 holes)
+T2  0.64mm  0.025"  (11 holes)
+T3  0.81mm  0.032"  (2 holes)
+T4  0.90mm  0.035"  (80 holes)
+T5  1.60mm  0.063"  (20 holes)
+
+Total plated holes count 122
+
+
+Drill report for unplated through holes :
+T1  3.00mm  0.118"  (4 holes)
+T2  3.25mm  0.128"  (20 holes)
+
+Total unplated holes count 24
+
+

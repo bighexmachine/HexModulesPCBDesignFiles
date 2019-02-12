@@ -1,0 +1,22 @@
+ref	value	Manufacturer Code	Farnell Order Code	URL
+C1	330nF	0805330nF 25V 10% X7R		Any compatible
+C2	100nF	0805100nF 50V 10% X7R		Any compatible
+CON1	BARREL_JACK	FC68148S	1889309	http://uk.farnell.com/cliff-electronic-components/fc68148s/dc-socket-smd-dc-10as-2-1mm-pin/dp/1889309
+D1	LED	C566C-RFN-CT0W0BB2	2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D2	LED	C566C-RFN-CT0W0BB2	2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D3	LED	C566C-RFN-CT0W0BB2	2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D4	LED	C566C-RFN-CT0W0BB2	2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+J1	RJ45	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+SW1	SWITCH_INV	1813.1102-00	1839467	http://uk.farnell.com/marquardt/1813-1102-00/switch-spdt-6a-4-8mm-terms/dp/1839467?Ntt=1813.1102
+SW2	SWITCH_INV	1813.1102-00	1839467	http://uk.farnell.com/marquardt/1813-1102-00/switch-spdt-6a-4-8mm-terms/dp/1839467?Ntt=1813.1102
+SW3	SWITCH_INV	1813.1102-00	1839467	http://uk.farnell.com/marquardt/1813-1102-00/switch-spdt-6a-4-8mm-terms/dp/1839467?Ntt=1813.1102
+SW4	SWITCH_INV	1813.1102-00	1839467	http://uk.farnell.com/marquardt/1813-1102-00/switch-spdt-6a-4-8mm-terms/dp/1839467?Ntt=1813.1102
+U1	74AC02	CD74AC02M	9589546	http://uk.farnell.com/texas-instruments/cd74ac02m/quad-2-input-nor-gate-smd-74ac02/dp/9589546
+U2	74AC02	CD74AC02M	9589546	http://uk.farnell.com/texas-instruments/cd74ac02m/quad-2-input-nor-gate-smd-74ac02/dp/9589546
+U3	YC124_1K	YC124-JR-071KL	9235361RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-071kl/resistor-array-arv341-0804-1k/dp/9235361RL
+U4	YC124_100K	YC124-JR-07100KL	9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL
+U5	YC124_100K	YC124-JR-07100KL	9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL
+U6	YC124_470R	YC124-JR-07470RL	9235345RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07470rl/resistor-array-arv341-0804-470r/dp/9235345RL
+U7	78L05	UA78L05CPK	2112604	http://uk.farnell.com/texas-instruments/ua78l05cpk/regulator-20vin-5v-10-3sot89/dp/2112604
+D1	Diode	DFLS240L-7	1713897	http://uk.farnell.com/diodes-inc/dfls240l-7/rectifier-std-recovery-powerdi/dp/1713897
+P1	Power input	Not fitted	Not fitted	Not fitted

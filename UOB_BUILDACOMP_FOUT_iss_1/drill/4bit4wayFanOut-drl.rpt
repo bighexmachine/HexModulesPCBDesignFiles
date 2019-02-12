@@ -1,0 +1,18 @@
+Drill report for C:/Users/Alexander/Documents/GitHub/buildacomp/kicad/4 bit 4 way fan out/4bit4wayFanOut.kicad_pcb
+Created on 18/09/2013 13:21:24
+Drill report for plated through holes :
+T1  0.64mm  0.025"  (43 holes)
+T2  0.81mm  0.032"  (8 holes)
+T3  0.90mm  0.035"  (40 holes)
+T4  1.60mm  0.063"  (10 holes)
+
+Total plated holes count 101
+
+
+Drill report for unplated through holes :
+T1  3.00mm  0.118"  (4 holes)
+T2  3.25mm  0.128"  (10 holes)
+
+Total unplated holes count 14
+
+

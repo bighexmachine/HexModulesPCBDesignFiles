@@ -1,0 +1,16 @@
+Drill report for /home/simon/work/kicad/buildacomp/kicad/I2C/I2C.kicad_pcb
+Created on Tue 15 Oct 2013 18:35:22 BST
+Drill report for plated through holes :
+T1  0.20mm  0.008"  (115 holes)
+T2  1.02mm  0.040"  (32 holes)
+T3  3.00mm  0.118"  (4 holes)
+
+Total plated holes count 151
+
+
+Drill report for unplated through holes :
+T1  3.25mm  0.128"  (14 holes)
+
+Total unplated holes count 14
+
+

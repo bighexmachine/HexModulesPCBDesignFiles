@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 18/09/2013 12:13:51
+
+BeginCmp
+TimeStamp = /520910B5;
+Reference = C1;
+ValeurCmp = 0.33uf;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52090F20;
+Reference = C2;
+ValeurCmp = 0.1uf;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51DC2D36;
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = DC_2.1MM_DC-10AS;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FFC7C9;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FFC7D6;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FFC7DC;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FFC7E2;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /52333DA3;
+Reference = D5;
+ValeurCmp = DIODE;
+IdModule  = DFLS240L;
+EndCmp
+
+BeginCmp
+TimeStamp = /51DC1C42;
+Reference = J1;
+ValeurCmp = RJ45;
+IdModule  = RJ45_8_FCI;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FFBC8F;
+Reference = SW1;
+ValeurCmp = SWITCH_INV;
+IdModule  = SPDT-QuickConnect;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FFC1DB;
+Reference = SW2;
+ValeurCmp = SWITCH_INV;
+IdModule  = SPDT-QuickConnect;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FFC1F8;
+Reference = SW3;
+ValeurCmp = SWITCH_INV;
+IdModule  = SPDT-QuickConnect;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FFC215;
+Reference = SW4;
+ValeurCmp = SWITCH_INV;
+IdModule  = SPDT-QuickConnect;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FFBF2A;
+Reference = U1;
+ValeurCmp = 74AC02;
+IdModule  = so-14;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FFC1FE;
+Reference = U2;
+ValeurCmp = 74AC02;
+IdModule  = so-14;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FFC7C1;
+Reference = U3;
+ValeurCmp = YC124_1K;
+IdModule  = YC124-JR;
+EndCmp
+
+BeginCmp
+TimeStamp = /5200FD42;
+Reference = U4;
+ValeurCmp = YC124_100K;
+IdModule  = YC124-JR;
+EndCmp
+
+BeginCmp
+TimeStamp = /52010389;
+Reference = U5;
+ValeurCmp = YC124_100K;
+IdModule  = YC124-JR;
+EndCmp
+
+BeginCmp
+TimeStamp = /52037BBA;
+Reference = U6;
+ValeurCmp = YC124_470R;
+IdModule  = YC124-JR;
+EndCmp
+
+BeginCmp
+TimeStamp = /52090CEE;
+Reference = U7;
+ValeurCmp = 78L05;
+IdModule  = SOT89-34;
+EndCmp
+
+EndListe

@@ -1,0 +1,25 @@
+Drill report for /home/simon/work/kicad/buildacomp/kicad/Clock/Clock.kicad_pcb
+Created on Tue 15 Oct 2013 19:00:01 BST
+Drill report for plated through holes :
+T1  0.64mm  0.025"  (127 holes)
+T2  0.74mm  0.029"  (6 holes)
+T3  0.80mm  0.031"  (12 holes)
+T4  0.81mm  0.032"  (4 holes)
+T5  0.90mm  0.035"  (16 holes)
+T6  1.00mm  0.039"  (4 holes)
+T7  1.02mm  0.040"  (3 holes)
+T8  1.60mm  0.063"  (4 holes)
+
+Total plated holes count 176
+
+
+Drill report for unplated through holes :
+T1  1.41mm  0.056"  (4 holes)
+T2  1.50mm  0.059"  (1 hole)  (with 1 slot)
+T3  2.00mm  0.079"  (1 hole)
+T4  2.15mm  0.085"  (2 holes)  (with 2 slots)
+T5  3.25mm  0.128"  (4 holes)
+
+Total unplated holes count 12
+
+

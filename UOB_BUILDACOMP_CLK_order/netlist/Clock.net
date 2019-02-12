@@ -1,0 +1,213 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 18/09/2013 14:23:06
+
+BeginCmp
+TimeStamp = /51FA4E54;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F93431;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FBF1A5;
+Reference = C3;
+ValeurCmp = 47pF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5209010C;
+Reference = C4;
+ValeurCmp = 330nF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5209012A;
+Reference = C5;
+ValeurCmp = 100nF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FA5BCA;
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = DC_2.1MM_DC-10AS;
+EndCmp
+
+BeginCmp
+TimeStamp = /52333DDD;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = DFLS240L;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F92127;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F92133;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F92164;
+Reference = J1;
+ValeurCmp = RJ45;
+IdModule  = RJ45_8_FCI;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F9215E;
+Reference = J2;
+ValeurCmp = RJ45;
+IdModule  = RJ45_8_FCI;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FA3FFE;
+Reference = SW1;
+ValeurCmp = MANUAL;
+IdModule  = SPDTbutton;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FA400D;
+Reference = SW2;
+ValeurCmp = RESET;
+IdModule  = SPDTbutton;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FA401C;
+Reference = SW3;
+ValeurCmp = TOGGLE;
+IdModule  = SPDTslideswitch;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FF874E;
+Reference = SW4;
+ValeurCmp = Divider toggle;
+IdModule  = SPDTslideswitch;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F93413;
+Reference = U1;
+ValeurCmp = ICM7555;
+IdModule  = so-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /520D2698;
+Reference = U2;
+ValeurCmp = YC124_P;
+IdModule  = YC124-JR;
+EndCmp
+
+BeginCmp
+TimeStamp = /520211F2;
+Reference = U3;
+ValeurCmp = YC124_100K;
+IdModule  = YC124-JR;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FA40F0;
+Reference = U4;
+ValeurCmp = 74AC04;
+IdModule  = so-14;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F90C0C;
+Reference = U5;
+ValeurCmp = 74AC175;
+IdModule  = so-16;
+EndCmp
+
+BeginCmp
+TimeStamp = /5202121F;
+Reference = U6;
+ValeurCmp = YC124_100K;
+IdModule  = YC124-JR;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F92115;
+Reference = U7;
+ValeurCmp = 74AC175;
+IdModule  = so-16;
+EndCmp
+
+BeginCmp
+TimeStamp = /52010A46;
+Reference = U8;
+ValeurCmp = 74AC00;
+IdModule  = so-14;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FFCA02;
+Reference = U9;
+ValeurCmp = 4040;
+IdModule  = so-16;
+EndCmp
+
+BeginCmp
+TimeStamp = /5202610C;
+Reference = U10;
+ValeurCmp = CD4043;
+IdModule  = so-16;
+EndCmp
+
+BeginCmp
+TimeStamp = /52010A0A;
+Reference = U11;
+ValeurCmp = 74AC00;
+IdModule  = so-14;
+EndCmp
+
+BeginCmp
+TimeStamp = /5202553F;
+Reference = U12;
+ValeurCmp = YC124;
+IdModule  = YC124-JR;
+EndCmp
+
+BeginCmp
+TimeStamp = /520900F3;
+Reference = U13;
+ValeurCmp = 78L05;
+IdModule  = SOT89-34;
+EndCmp
+
+BeginCmp
+TimeStamp = /520BA443;
+Reference = U14;
+ValeurCmp = YC124;
+IdModule  = YC124-JR;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F9343D;
+Reference = VR1;
+ValeurCmp = 1M;
+IdModule  = VR_PTV;
+EndCmp
+
+EndListe

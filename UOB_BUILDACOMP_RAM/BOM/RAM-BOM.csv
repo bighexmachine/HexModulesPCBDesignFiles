@@ -1,0 +1,47 @@
+ref	value	Manufacturer Order Code	Farnell Order Code	URL
+C1	330nF	0805-330nF-50V-10%-X7R		PCBTrain supplied
+C2	100nF	0805-100nF-50V-10%-X7R		PCBTrain supplied
+C3	100nF	0805-100nF-50V-10%-X7R		PCBTrain supplied
+C4	100uF Tantalum	B45196H2107K409	9753850	http://uk.farnell.com/kemet/b45196h2107k409/capacitor-case-d-100uf-10v/dp/9753850?Ntt=9753850
+D0	LED_R_D0	C566C-RFN-CT0W0BB2	2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D1	LED_R_D1	C566C-RFN-CT0W0BB2	2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D2	LED_R_D2	C566C-RFN-CT0W0BB2	2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D3	LED_R_D3	C566C-RFN-CT0W0BB2	2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D4	LED_R_D4	C566C-RFN-CT0W0BB2	2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D5	LED_R_D5	C566C-RFN-CT0W0BB2	2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D6	LED_R_D6	C566C-RFN-CT0W0BB2	2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D7	LED_R_D7	C566C-RFN-CT0W0BB2	2088311	http://uk.farnell.com/cree/c566c-rfn-ct0w0bb2/led-red-5mm-2-2cd-621nm/dp/2088311?Ntt=C566C-RFN
+D8	LED_B_WRITE	C566C-BFN-CS0W0451	2094359	http://uk.farnell.com/cree/c566c-bfn-cs0w0352/led-blue-1-5cd-470nm/dp/2094359?ref=lookahead
+J1	RJ45_Add3	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+J2	RJ45_Add2	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+J3	RJ45_Add1	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+J4	RJ45_Add0	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+J5	RJ45_CIn0	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+J6	RJ45_COut0	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+J7	RJ45_DOut0	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+J8	RJ45_DIn0	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+J9	RJ45_DOut1	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+J10	RJ45_DIn1	10117863-5036010LF	2215338	http://uk.farnell.com/fci/10117863-5036010lf/jack-rj45-tht-ra-8p8c/dp/2215338
+U1	CY14E256LA SOC-24	CY14E256LA	2115442	http://uk.farnell.com/cypress-semiconductor/cy14e256la-sz45xi/nvram-256kbit-45ns-32soic/dp/2115442?Ntt=cy14e256la
+U2	74AC00	SN74AC00DR	1749898	http://uk.farnell.com/texas-instruments/sn74ac00dr/logic-quad-2in-pos-nand-gate-14soic/dp/1749898
+U3	74AC244	74AC244SC	1014154	http://uk.farnell.com/fairchild-semiconductor/74ac244sc/ic-74ac-cmos-smd-74ac244-soic20/dp/1014154
+U14	74AC244	74AC244SC	1014154	http://uk.farnell.com/fairchild-semiconductor/74ac244sc/ic-74ac-cmos-smd-74ac244-soic20/dp/1014154
+U4	YC124_100k	YC124-JR-07100KL	9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL
+U5	YC124_100k	YC124-JR-07100KL	9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL
+U6	YC124_100k	YC124-JR-07100KL	9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL
+U7	YC124_100k	YC124-JR-07100KL	9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL
+U9	YC124_100k	YC124-JR-07100KL	9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL
+U11	YC124_100k	YC124-JR-07100KL	9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL
+U13	YC124_100k	YC124-JR-07100KL	9235469RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07100kl/resistor-array-arv341-0804-100k/dp/9235469RL
+U10	YC124_470R	YC124-JR-07470RL	9235345RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07470rl/resistor-array-arv341-0804-470r/dp/9235345RL
+U12	YC124_470R	YC124-JR-07470RL	9235345RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07470rl/resistor-array-arv341-0804-470r/dp/9235345RL
+U18	YC124_470R	YC124-JR-07470RL	9235345RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-07470rl/resistor-array-arv341-0804-470r/dp/9235345RL
+U15	YC124_1k	YC124-JR-071KL	9235361RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-071kl/resistor-array-arv341-0804-1k/dp/9235361RL
+U16	YC124_1k	YC124-JR-071KL	9235361RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-071kl/resistor-array-arv341-0804-1k/dp/9235361RL
+U19	YC124_10k	YC124-JR-0710KL	9235418RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-0710kl/resistor-array-arv341-0804-10k/dp/9235418RL
+U20	YC124_10k	YC124-JR-0710KL	9235418RL	http://uk.farnell.com/yageo-phycomp/yc124-jr-0710kl/resistor-array-arv341-0804-10k/dp/9235418RL
+U17	78L05	UA78L05CPK	2112604	http://uk.farnell.com/texas-instruments/ua78l05cpk/regulator-20vin-5v-10-3sot89/dp/2112604
+R1	2k2	0805-2K2		PCBTrain supplied
+R2	10k	0805-10K		PCBTrain supplied
+P1	2-way header	M20-9990246	1022247	http://uk.farnell.com/harwin/m20-9990246/header-straight-2-54mm-1row-2way/dp/1022247
+P2	Not fitted	Not fitted	Not fitted	Not fitted

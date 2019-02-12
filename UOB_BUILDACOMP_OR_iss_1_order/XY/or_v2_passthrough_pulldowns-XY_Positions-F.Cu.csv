@@ -1,0 +1,15 @@
+### UOB BUILDACOMP OR
+### Module positions - created on 29/08/2013 17:26:51 ###
+### Printed by Pcbnew version pcbnew (2013-05-31 BZR 4019)-stable
+## Unit = mm, Angle = deg.
+## Side : F.Cu
+Ref,Val,Package,PosX,PosY,Rot,Side
+C1,330nF,SM0805,104.2500,-87.2500,270.0,F.Cu
+C2,0.1uF,SM0805,91.7500,-87.2500,270.0,F.Cu
+R1,100K,SM0603,104.0000,-72.5000,270.0,F.Cu
+R5,470,SM0603,50.0000,-76.0000,180.0,F.Cu
+R8,220,SM0603,38.0000,-53.0000,180.0,F.Cu
+U1,74AC32,so-14,80.0000,-76.0000,0.0,F.Cu
+U2,YC124 100K,YC124-JR,90.0000,-76.0000,90.0,F.Cu
+U3,78L05,SOT89-34,98.0000,-82.8000,0.0,F.Cu
+## End

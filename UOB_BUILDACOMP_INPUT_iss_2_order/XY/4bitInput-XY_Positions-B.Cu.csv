@@ -1,0 +1,11 @@
+### UOB BUILDACOMP Input iss 2
+### Module positions - created on 18/09/2013 12:38:39 ###
+### Printed by Pcbnew version pcbnew (2013-07-07 BZR 4022)-stable
+## Unit = mm, Angle = deg.
+## Side : B.Cu
+Ref,Val,Package,PosX,PosY,Rot,Side
+U3,YC124_1K,YC124-JR,89.5000,-23.5000,90.0,B.Cu
+U4,YC124_100K,YC124-JR,79.0000,-55.0000,180.0,B.Cu
+U5,YC124_100K,YC124-JR,45.0000,-55.0000,180.0,B.Cu
+U6,YC124_470R,YC124-JR,71.0000,-23.5000,270.0,B.Cu
+## End

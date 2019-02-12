@@ -1,0 +1,8 @@
+### UOB BUILDACOMP FOUT iss 1
+### Module positions - created on 18/09/2013 13:23:23 ###
+### Printed by Pcbnew version pcbnew (2013-07-07 BZR 4022)-stable
+## Unit = mm, Angle = deg.
+## Side : B.Cu
+Ref,Val,Package,PosX,PosY,Rot,Side
+U3,YC124_100k,YC124-JR,62.0000,-47.0000,180.0,B.Cu
+## End

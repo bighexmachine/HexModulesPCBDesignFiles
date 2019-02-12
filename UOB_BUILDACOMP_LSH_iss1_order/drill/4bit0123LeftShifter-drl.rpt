@@ -1,0 +1,19 @@
+Drill report for C:/Documents and Settings/aw12700/My Documents/GitHub/buildacomp/kicad/0123LeftShifter/4bit0123LeftShifter.kicad_pcb
+Created on 9/18/2013 13:07:09
+Drill report for plated through holes :
+T1  0.50mm  0.020"  (36 holes)
+T2  0.60mm  0.024"  (14 holes)
+T3  0.80mm  0.031"  (12 holes)
+T4  0.90mm  0.035"  (48 holes)
+T5  1.60mm  0.063"  (12 holes)
+
+Total plated holes count 122
+
+
+Drill report for unplated through holes :
+T1  3.00mm  0.118"  (4 holes)
+T2  3.25mm  0.128"  (12 holes)
+
+Total unplated holes count 16
+
+

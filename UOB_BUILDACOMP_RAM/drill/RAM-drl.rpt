@@ -1,0 +1,20 @@
+Drill report for /home/simon/work/kicad/buildacomp/kicad/RAM/RAM.kicad_pcb
+Created on Tue 15 Oct 2013 18:52:17 BST
+Drill report for plated through holes :
+T1  0.50mm  0.020"  (68 holes)
+T2  0.60mm  0.024"  (16 holes)
+T3  0.80mm  0.031"  (18 holes)
+T4  0.90mm  0.035"  (80 holes)
+T5  1.02mm  0.040"  (5 holes)
+T6  1.60mm  0.063"  (20 holes)
+
+Total plated holes count 207
+
+
+Drill report for unplated through holes :
+T1  3.00mm  0.118"  (6 holes)
+T2  3.25mm  0.128"  (20 holes)
+
+Total unplated holes count 26
+
+
